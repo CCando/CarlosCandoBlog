@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Blog de Carlos Cando</title>
-    <link>http://carloscando.org/posts/</link>
-    <description>Recent content in Posts on Blog de Carlos Cando</description>
+    <title>Posts on PaperMod</title>
+    <link>https://ccando.github.io/CarlosCandoBlog/posts/</link>
+    <description>Recent content in Posts on PaperMod</description>
+    <image>
+      <url>https://ccando.github.io/CarlosCandoBlog/papermod-cover.png</url>
+      <link>https://ccando.github.io/CarlosCandoBlog/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ec</language>
-    <lastBuildDate>Tue, 29 Mar 2022 19:42:21 -0500</lastBuildDate><atom:link href="http://carloscando.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 19:42:21 -0500</lastBuildDate><atom:link href="https://ccando.github.io/CarlosCandoBlog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cómo Crear Un Blog con Hugo y GitHub Pages</title>
-      <link>http://carloscando.org/posts/comocrearunblog/</link>
+      <link>https://ccando.github.io/CarlosCandoBlog/posts/comocrearunblog/</link>
       <pubDate>Tue, 29 Mar 2022 19:42:21 -0500</pubDate>
       
-      <guid>http://carloscando.org/posts/comocrearunblog/</guid>
+      <guid>https://ccando.github.io/CarlosCandoBlog/posts/comocrearunblog/</guid>
       <description>¿Qué es Hugo? ¿Cómo instalar Hugo? ¿Cómo crear mi blog con Hugo? ¿Cómo integrar mi blog en Hugo a GitHub? ¿Cómo publicarlo con GitHub Pages? ¿Cómo modificar el dominio? </description>
     </item>
     
