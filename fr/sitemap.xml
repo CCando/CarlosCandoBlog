@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ccando.github.io/CarlosCandoBlog/fr/categories/</loc>
+    <loc>https://carloscando.com/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ccando.github.io/CarlosCandoBlog/categories/"
+                href="https://carloscando.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ccando.github.io/CarlosCandoBlog/fa/categories/"
+                href="https://carloscando.com/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ccando.github.io/CarlosCandoBlog/fr/categories/"
+                href="https://carloscando.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://ccando.github.io/CarlosCandoBlog/fr/</loc>
+    <loc>https://carloscando.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ccando.github.io/CarlosCandoBlog/"
+                href="https://carloscando.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ccando.github.io/CarlosCandoBlog/fa/"
+                href="https://carloscando.com/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ccando.github.io/CarlosCandoBlog/fr/"
+                href="https://carloscando.com/fr/"
                 />
   </url><url>
-    <loc>https://ccando.github.io/CarlosCandoBlog/fr/series/</loc>
+    <loc>https://carloscando.com/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ccando.github.io/CarlosCandoBlog/series/"
+                href="https://carloscando.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ccando.github.io/CarlosCandoBlog/fa/series/"
+                href="https://carloscando.com/fa/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ccando.github.io/CarlosCandoBlog/fr/series/"
+                href="https://carloscando.com/fr/series/"
                 />
   </url><url>
-    <loc>https://ccando.github.io/CarlosCandoBlog/fr/tags/</loc>
+    <loc>https://carloscando.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://ccando.github.io/CarlosCandoBlog/tags/"
+                href="https://carloscando.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://ccando.github.io/CarlosCandoBlog/fa/tags/"
+                href="https://carloscando.com/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://ccando.github.io/CarlosCandoBlog/fr/tags/"
+                href="https://carloscando.com/fr/tags/"
                 />
   </url>
 </urlset>
